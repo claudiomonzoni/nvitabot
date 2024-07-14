@@ -1,13 +1,16 @@
+import { join } from 'path'
+
 import "dotenv/config";
 
 import {
-  createBot,
-  createProvider,
-  createFlow,
-  addKeyword,
-  EVENTS,
+    createBot,
+    createProvider,
+    createFlow,
+    addKeyword,
+    EVENTS,
 } from "@builderbot/bot";
-import { MemoryDB as Database } from "@builderbot/bot";
+import { JsonFileDB as Database } from '@builderbot/database-json'
+// import { MemoryDB as Database } from "@builderbot/bot";
 import {
   BaileysProvider,
   BaileysProvider as Provider,
@@ -101,3 +104,4 @@ const main = async () => {
 };
 
 main();
+

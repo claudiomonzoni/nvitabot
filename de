@@ -1,0 +1,38 @@
+[
+  {
+    "ref": "503b3219-01b4-4c9c-b023-783649779da0",
+    "keyword": "193911b161ca687f60e6e7723bb438e6",
+    "answer": "gracias por ahora no",
+    "options": {},
+    "from": "5217551048550",
+    "refSerialize": "1d351a98ec8b4a9f029f7e160770db33"
+  },
+  {
+    "ref": "ans_f9408210-7a0c-451e-8325-91f289d0baeb",
+    "keyword": "key_ced22532-b186-43d6-9495-6ce8a09e4e85",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "282cff56696d2ecd554794e4b40235c6",
+    "from": "5217551048550"
+  },
+  {
+    "ref": "bddb02df-24e6-4ce9-bb91-5eaa6887b694",
+    "keyword": null,
+    "answer": "Hola, soy Aida de nvita. Si tienes alguna duda sobre nuestras invitaciones digitales para eventos, no dudes en preguntarme. Estoy aquí para ayudarte.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5217551048550",
+    "refSerialize": "5d35e3950f6baed77476b13f23255ce9"
+  }
+]
